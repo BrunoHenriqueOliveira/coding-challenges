@@ -17,11 +17,12 @@ Os exercícios estão organizados por plataforma e nível de dificuldade:
 
 # Planilha de Exercícios Resolvidos
 
-| **Plataforma** | **Problema** | **Dificuldade**    | **Link da Solução**                                                                     | **nível**   |
-|----------------|--------------|--------------------|-----------------------------------------------------------------------------------------|-------------|
-| BeeCrowd       | 261.389      | Cálculo simples    | [Solução](src/main/java/com/coding-challenges/Beecrowd/iniciante/CalculoSimples.java)   | iniciante 3 |
-| BeeCrowd       | 193.413      | Cédulas            | [Solução](src/main/java/com/coding-challenges/Beecrowd/iniciante/Cedulas.java)          | iniciante 4 |
-| BeeCrowd       | 201.552      | conversão de Tempo | [Solução](src/main/java/com/coding-challenges/Beecrowd/iniciante/ConversaoDeTempo.java) | iniciante 1 |
-| BeeCrowd       | 321.398      | Média 2            | [Solução](src/main/java/com/coding-challenges/Beecrowd/iniciante/Media2.java)           | iniciante 1 |
-| BeeCrowd       | 128.992      | Notas e Moedas     | [Solução](src/main/java/com/coding-challenges/Beecrowd/iniciante/NotasEMoedas.java)     | iniciante 6 |
-
+| **Codigo** | **Nome**           | **Plataforma** | **Link da Solução**                                                                                                 | **nível**   |
+|------------|--------------------|----------------|---------------------------------------------------------------------------------------------------------------------|-------------|
+| 1          | Tow Sum            | LeetCode       | [Solição](src/main/java/com/github/BrunoHenriqueOliveira/codingchallenges/LeetCode/TwoSum.java)                     | Easy        |
+| 3105       | Longest Strictly   | LeetCode       | [Solução](src/main/java/com/github/BrunoHenriqueOliveira/codingchallenges/LeetCode/LongestStrictly.java)            | Easy        |
+| 261.389    | Cálculo simples    | BeeCrowd       | [Solução](src/main/java/com/github/BrunoHenriqueOliveira/codingchallenges/Beecrowd/iniciante/CalculoSimples.java)   | iniciante 3 |
+| 193.413    | Cédulas            | BeeCrowd       | [Solução](src/main/java/com/github/BrunoHenriqueOliveira/codingchallenges/Beecrowd/iniciante/Cedulas.java)          | iniciante 4 |
+| 201.552    | conversão de Tempo | BeeCrowd       | [Solução](src/main/java/com/github/BrunoHenriqueOliveira/codingchallenges/Beecrowd/iniciante/ConversaoDeTempo.java) | iniciante 1 |
+| 321.398    | Média 2            | BeeCrowd       | [Solução](src/main/java/com/github/BrunoHenriqueOliveira/codingchallenges/Beecrowd/iniciante/Media2.java)           | iniciante 1 |
+| 128.992    | Notas e Moedas     | BeeCrowd       | [Solução](src/main/java/com/github/BrunoHenriqueOliveira/codingchallenges/Beecrowd/iniciante/NotasEMoedas.java)     | iniciante 6 |

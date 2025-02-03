@@ -1,4 +1,4 @@
-package com.rocketseat.createUrlShortner.Beecrowd.iniciante;
+package com.github.BrunoHenriqueOliveira.codingchallenges.Beecrowd.iniciante;
 import java.util.Scanner;
 
 public class Media2 {

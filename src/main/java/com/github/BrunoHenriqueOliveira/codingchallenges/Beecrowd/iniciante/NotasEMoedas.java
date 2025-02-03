@@ -1,4 +1,4 @@
-package com.rocketseat.createUrlShortner.Beecrowd.iniciante;
+package com.github.BrunoHenriqueOliveira.codingchallenges.Beecrowd.iniciante;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;
