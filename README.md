@@ -23,6 +23,7 @@ Os exercícios estão organizados por plataforma e nível de dificuldade:
 | LeetCode       | 9          | Palindrome Number  | Easy        | [Solução](src/main/java/com/github/BrunoHenriqueOliveira/codingchallenges/LeetCode/PalindromeNumber.java)           |
 | LeetCode       | 292        | Nim Game           | Easy        | [Solução](src/main/java/com/github/BrunoHenriqueOliveira/codingchallenges/LeetCode/NimGame.java)                    |
 | LeetCode       | 461        | Hamming Distance   | Easy        | [Solução](src/main/java/com/github/BrunoHenriqueOliveira/codingchallenges/LeetCode/HammingDistance.java)            |
+| LeetCode       | 1569       | Add Two Numbers    | Easy        | [Solução](src/main/java/com/github/BrunoHenriqueOliveira/codingchallenges/LeetCode/AddTwoNumbers.java)              |
 | LeetCode       | 3105       | Longest Strictly   | Easy        | [Solução](src/main/java/com/github/BrunoHenriqueOliveira/codingchallenges/LeetCode/LongestStrictly.java)            |
 | LeetCode       | 1528       | shuffle String     | Easy        | [Solução](src/main/java/com/github/BrunoHenriqueOliveira/codingchallenges/LeetCode/ShuffleString.java)              |
 | BeeCrowd       | 261.389    | Cálculo simples    | iniciante 3 | [Solução](src/main/java/com/github/BrunoHenriqueOliveira/codingchallenges/Beecrowd/iniciante/CalculoSimples.java)   |
