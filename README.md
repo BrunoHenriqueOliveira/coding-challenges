@@ -22,6 +22,7 @@ Os exercícios estão organizados por plataforma e nível de dificuldade:
 | LeetCode       | 1          | Two Sum            | Easy        | [Solução](src/main/java/com/github/BrunoHenriqueOliveira/codingchallenges/LeetCode/TwoSum.java)                     |
 | LeetCode       | 3          | Longest Substring  | Medium      | [Solução](src/main/java/com/github/BrunoHenriqueOliveira/codingchallenges/LeetCode/LongestSubstring.java)           |
 | LeetCode       | 9          | Palindrome Number  | Easy        | [Solução](src/main/java/com/github/BrunoHenriqueOliveira/codingchallenges/LeetCode/PalindromeNumber.java)           |
+| LeetCode       | 13         | Roman to Integer   | Easy        | [Solução](src/main/java/com/github/BrunoHenriqueOliveira/codingchallenges/LeetCode/RomanToInteger.java)             |
 | LeetCode       | 88         | Merge Sorted Array | Easy        | [Solução](src/main/java/com/github/BrunoHenriqueOliveira/codingchallenges/LeetCode/MergeSortedArray.java)           |
 | LeetCode       | 292        | Nim Game           | Easy        | [Solução](src/main/java/com/github/BrunoHenriqueOliveira/codingchallenges/LeetCode/NimGame.java)                    |
 | LeetCode       | 461        | Hamming Distance   | Easy        | [Solução](src/main/java/com/github/BrunoHenriqueOliveira/codingchallenges/LeetCode/HammingDistance.java)            |
